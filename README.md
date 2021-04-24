@@ -26,4 +26,17 @@ set the quantity of the item\
 ![alt text](https://github.com/hmdfrds/Assignment2_KioskApp/blob/master/5.png)  
 insert a valid credit card number the click proceed\
 ![alt text](https://github.com/hmdfrds/Assignment2_KioskApp/blob/master/6.png)  
-if the credit card is valid then this will popup\
+if the credit card is valid then this will popup\  
+  
+2.KitchenScreen\  
+![alt text](https://github.com/hmdfrds/Assignment2_KioskApp/blob/master/chickenscreen.png)\  
+output from the kitchen screen\  
+3.OrderServer\  
+![alt text](https://github.com/hmdfrds/Assignment2_KioskApp/blob/master/orderserver.png)\  
+output from orderServer\  
+4.CreditCardValidation\  
+![alt text](https://github.com/hmdfrds/Assignment2_KioskApp/blob/master/creditcardserver.png)\  
+output from creditcardserver\  
+5.Receipt
+![alt text](https://github.com/hmdfrds/Assignment2_KioskApp/blob/master/receipt.png)\  
+output inside receipt.txt file
