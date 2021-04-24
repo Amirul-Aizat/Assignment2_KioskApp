@@ -11,9 +11,10 @@ GroupMate\
 
 ![alt text](https://github.com/hmdfrds/Assignment2_KioskApp/blob/master/which%20one.png)
 
-3.run MainOrderServer first then CreditCardAuthorizationServer then MainKioskClient then KitchenClient\
+\3.run MainOrderServer first then CreditCardAuthorizationServer then MainKioskClient then KitchenClient\
 #Output\
+\
 1.MainKiosk\
-![alt text](https://github.com/hmdfrds/Assignment2_KioskApp/blob/master/1.png)/
-front page
+![alt text](https://github.com/hmdfrds/Assignment2_KioskApp/blob/master/1.png)
+\front page
 
