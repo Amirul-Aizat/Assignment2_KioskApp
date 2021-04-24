@@ -13,7 +13,7 @@ GroupMate\
 
 3.run MainOrderServer first then CreditCardAuthorizationServer then MainKioskClient then KitchenClient\
 #Output  
-
+    
 1.MainKiosk\
 ![alt text](https://github.com/hmdfrds/Assignment2_KioskApp/blob/master/1.png)  
 front page\
@@ -37,6 +37,6 @@ output from orderServer
 4.CreditCardValidation  
 ![alt text](https://github.com/hmdfrds/Assignment2_KioskApp/blob/master/creditcardserver.png)  
 output from creditcardserver  
-5.Receipt
+5.Receipt  
 ![alt text](https://github.com/hmdfrds/Assignment2_KioskApp/blob/master/receipt.png)  
-output inside receipt.txt file
+output inside receipt.txt file  
