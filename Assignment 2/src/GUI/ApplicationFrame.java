@@ -1030,7 +1030,7 @@ public class ApplicationFrame extends JFrame {
 				
 			}
 				else {
-					JOptionPane.showMessageDialog(null, "Please insert your credit card number and make sure it is string and valid length", "Opps!", JOptionPane.INFORMATION_MESSAGE);
+					JOptionPane.showMessageDialog(null, "Please insert your credit card number and make sure it is integer and valid length", "Opps!", JOptionPane.INFORMATION_MESSAGE);
 				}
 				}
 			
