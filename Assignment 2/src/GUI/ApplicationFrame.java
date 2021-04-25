@@ -1025,9 +1025,9 @@ public class ApplicationFrame extends JFrame {
 					// TODO Auto-generated catch block
 					e1.printStackTrace();
 				}
-				
-				
-				
+				//firdaus
+				//mirul
+				//syauqi
 			}
 				else {
 					JOptionPane.showMessageDialog(null, "Please insert your credit card number and make sure it is integer and valid length", "Opps!", JOptionPane.INFORMATION_MESSAGE);
